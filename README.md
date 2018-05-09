@@ -1,3 +1,4 @@
-# Merge-Conflict-Practice
+# Go away Yeh-Sun
 
-**bolded**
+This is the last line.
+>>>>>>> 2be06c3a18511140ddf964f7b5c890f2541db33d
